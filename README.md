@@ -1,3 +1,9 @@
+Added to K2-RFID
+
+Added a "Read Card" button that will show "MatchesCurrentSpoolData=" Yes or No. You can be sure your RFID was written to.
+
+Added a "Reset Card Key", will reset RFID in case something goes wrong. Had a couple of RFID's I could not write to.
+
 # ESP32
 
 Default Access point information:<br>
